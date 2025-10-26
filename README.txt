@@ -1,0 +1,3 @@
+# Patient Recovery Prediction
+
+This project analyzes patient recovery data to predict recovery outcomes based on treatment and lifestyle factors. The dataset includes features such as therapy hours, initial health scores, lifestyle activities, sleep patterns, and follow-up sessions. The notebook performs exploratory data analysis (EDA), checks for missing values and duplicates, and visualizes potential outliers. The goal is to build a predictive model for recovery index using machine learning techniques. This analysis supports healthcare professionals in optimizing treatment plans and improving patient outcomes.
